@@ -135,7 +135,8 @@ div.video{
     margin: 0px 0px 30px 0px;
     max-width: 600px;
     padding: 0px;
-    padding-bottom:  30%;
+    padding-bottom: 30%;
+    
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.274);
 }
 
